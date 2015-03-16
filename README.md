@@ -1,3 +1,5 @@
+-# SSODemo
+-Matlab PMU demo
 function varargout = SSODemo(varargin)
 % SSODEMO MATLAB code for SSODemo.fig
 %      SSODEMO, by itself, creates a new SSODEMO or raises the existing
