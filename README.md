@@ -23,7 +23,7 @@ function varargout = SSODemo(varargin)
 % See also: GUIDE, GUIDATA, GUIHANDLES
 
 % Edit the above text to modify the response to help SSODemo
-
+ 
 % Last Modified by GUIDE v2.5 10-Mar-2015 09:44:26
 
 % Begin initialization code - DO NOT EDIT
